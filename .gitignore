@@ -53,3 +53,6 @@
 
 # Symfony
 /.idea
+###> lexik/jwt-authentication-bundle ###
+# SUPPOSED TO BE IGNORE /config/jwt/*.pem
+###< lexik/jwt-authentication-bundle ###

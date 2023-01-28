@@ -5,12 +5,12 @@ Créer une API permettant des gérer des membres, des articles ainsi que
 leurs commentaires.
 
 ## Fonctionnalités
-- [ ] Système d&#39;authentification
-  - [ ] Via un token JWT
-    - [ ] Communiqué via le header Authorization
+- [x] Système d&#39;authentification
+  - [x] Via un token JWT
+    - [x] Communiqué via le header Authorization
 
-- [ ] Membres
-  - [ ] Se connecter
+- [x] Membres
+  - [x] Se connecter
   - [x] Créer un membre via une commande console
   - [x] Modifier le mot de passe d'un membre via une commande console
 

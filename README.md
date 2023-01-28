@@ -11,8 +11,9 @@ leurs commentaires.
 
 - [ ] Membres
   - [ ] Se connecter
-  - [ ] Créer un membre via une commande console
-  - [ ] Modifier le mot de passe d&#39;un membre via une commande console
+  - [x] Créer un membre via une commande console
+  - [x] Modifier le mot de passe d'un membre via une commande console
+
 - [ ] Articles
   - [ ] Nécessite un rôle admin
     - [ ] Créer un article
@@ -45,7 +46,7 @@ leurs commentaires.
   - [ ] (Pensez à valider les données saisies)
 - [ ] Le cache HTTP doit être géré
 - [ ] Utilisation de design patterns
-- [ ] Permettre l&#39;authentification via les réseaux sociaux Facebook et Google
+- [ ] Permettre l'authentification via les réseaux sociaux Facebook et Google
 - [ ] RESTful
 - [ ] CQRS
 

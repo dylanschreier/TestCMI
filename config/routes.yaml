@@ -6,5 +6,10 @@ controllers:
   resource: ../src/Controller/
   type: annotation
 
+api:
+  prefix: /api
+  resource: ../src/Controller/API
+  type: annotation
+
 api_login_check:
   path: /api/login_check

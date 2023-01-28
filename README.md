@@ -14,14 +14,14 @@ leurs commentaires.
   - [x] Créer un membre via une commande console
   - [x] Modifier le mot de passe d'un membre via une commande console
 
-- [ ] Articles
-  - [ ] Nécessite un rôle admin
-    - [ ] Créer un article
-    - [ ] Mettre à jour un article
-    - [ ] Supprimer un article
-  - [ ] Accessible aux membres
-    - [ ] Consulter la liste des articles
-      - [ ] Doit permettre la pagination
+- [x] Articles
+  - [x] Nécessite un rôle admin
+    - [x] Créer un article
+    - [x] Mettre à jour un article
+    - [x] Supprimer un article
+  - [x] Accessible aux membres
+    - [x] Consulter la liste des articles
+      - [x] Doit permettre la pagination
 
 - [ ] Commentaires
   - [ ] Nécessite un rôle admin
